@@ -1,7 +1,11 @@
 # PowerBI-Financial-Report
 
-This report Provides an overview of the company's financial performance for 2013 and 2014
+This report Provides an overview of the company's financial performance for 2013 and 2014.
 It mainly Focusing the sales analysis and profit analysis of the company based on the products, country and also in different segments etc.
+In this report , I applied filters for the year , Which helps in visualisation and getting user insights year wise more easier.
+
+
+Here is the aesthetic Dashboards;
 
 
 
